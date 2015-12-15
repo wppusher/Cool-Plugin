@@ -9,3 +9,7 @@
  * Author URI: http://wppusher.com
  * License: GNU GENERAL PUBLIC LICENSE
  */
+
+function someFunctionHere() {
+    // Code!
+};
