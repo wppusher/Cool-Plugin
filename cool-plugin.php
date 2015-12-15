@@ -12,4 +12,6 @@
 
 function someFunctionHere() {
     // Code!
+    
+    // Add some more code
 };
